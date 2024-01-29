@@ -10,6 +10,11 @@ This Power BI report has been created based on data from the 2021 Census provide
 
 - **Functionalities:** The report incorporates measures and drillthrough functionalities for in-depth analysis.
 
-- **Visualizations:** Various visualizations have been utilized, including pie charts, cards, slicers, column charts, maps, and tables, to effectively present the census data.
+- **Visualizations:** Various visualizations have been utilized, including pie charts, cards, slicers, column charts, maps, and tables, to effectively present the census data
+
+## Tools
+- Power BI - create a report
+
+
 
 
